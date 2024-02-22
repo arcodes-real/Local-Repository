@@ -1,0 +1,1 @@
+// Javascript is a single threaded, synchronous, object-oriented programming language
